@@ -8,4 +8,9 @@ Tugas kalian disini adalah:
 
 Good luck!
 
+Untuk mengakses website, click link berikut
+```
+https://challenge-8-binar-production.up.railway.app/
+```
+
 
